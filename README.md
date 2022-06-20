@@ -2,6 +2,7 @@
 
 Fivem notifications system using [Mantine](https://mantine.dev/) framework and [ReactIcons](https://react-icons.github.io/react-icons/).
 
+![VideoPreview](https://www.youtube.com/watch?v=l8h4ti9GGdk) 
 ![Screenshots are here](https://i.imgur.com/WIDXDWt.png)
 
 ## Installation
